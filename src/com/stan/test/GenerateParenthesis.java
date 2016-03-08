@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 给定 n 对括号，请写一个函数以将其生成新的括号组合，并返回所有组合结果。
  * <p>
- * Created by xdja on 2016/3/8.
+ * Created by Stan on 2016/3/8.
  */
 public class GenerateParenthesis {
 
